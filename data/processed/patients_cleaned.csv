@@ -1,0 +1,9 @@
+patient_id,first_name,last_name,date_of_birth,gender,city,email,registration_date
+P1001,Rahul,Sharma,1995-04-12,Male,Hyderabad,rahul@example.com,2024-01-15
+P1002,Priya,Reddy,1998-08-22,Female,Chennai,priya@example.com,2024-01-18
+P1003,Amit,Kumar,1989-11-05,Male,Bangalore,amit@example.com,2024-02-01
+P1004,Sneha,Patel,1992-06-17,Female,Mumbai,,2024-02-10
+P1006,Arjun,Verma,1990-03-25,Male,Hyderabad,arjun@example.com,2024-02-20
+P1007,Neha,Rao,1996-12-09,Female,Delhi,neha@example.com,2024-03-01
+P1008,Kiran,Das,1994-09-14,Male,Chennai,kiran@example.com,2024-03-10
+P1009,Meera,Iyer,1999-01-30,Female,Mumbai,meera@example.com,2024-03-15
